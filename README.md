@@ -1,4 +1,4 @@
-# Dungeon-Break
+# Dungeon Break
 
 Game 4 for CMPM 120
 
